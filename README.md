@@ -42,6 +42,7 @@ web页面（依然主推命令行用法）
 依赖环境	推荐版本	下载地址
 
 Java	8u471	https://www.oracle.com/java/technologies/downloads/archive/#JavaSE
+
 CodeQL	2.23.8	https://github.com/github/codeql-cli-binaries
 
 # 后续开发计划
