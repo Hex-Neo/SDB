@@ -30,25 +30,9 @@ cloudflare验证真人绕过请参考 "sdb上手指南.pdf" 中的  Init初始�
 如果配置了请求头，初始化网络连接还是失败，建议换个网，去kfc吧，后续会提供常用组件全版本本地数据库，就不需要联网使用依赖漏洞扫描功能了
 
 # 功能介绍
-功能	                        命令	         完整命令样例
 
-初始化（第一次使用必须初始化）	  init	          init
+<img width="690" height="456" alt="image" src="https://github.com/user-attachments/assets/059fd5d3-d364-49cc-ba8e-b9c1991320fb" />
 
-扫描分析Java项目源码	          scan	          scan -u 代码位置 -t Sast
-
-扫描分析Java项目依赖	          scan	          scan -u 代码位置 -t dependency
-
-全扫描                        	scan	          scan -u 代码位置 -t Auto
-
-查询扫描分析历史记录	          hostory	        histort -l
-
-导出扫描分析历史记录	          hostory	        histort -o 报告ID
-
-拉取组件全版本漏洞信息	        pull	          pull -d com.alibaba.fastjsonpull
-
-批量拉取组件全版本漏洞信息	    pull	          pull -t xxx.txt（此功能未经测试）
-
-web页面操作	                  web	            web
 
 
 web页面（依然主推命令行用法）
