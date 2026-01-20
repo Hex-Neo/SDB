@@ -38,7 +38,9 @@ web页面（依然主推命令行用法）
 <img width="2559" height="1365" alt="image" src="https://github.com/user-attachments/assets/a7165a3f-cc7f-414e-8217-c7810297d357" />
 
 # 手动编译代码环境依赖
+
 依赖环境	推荐版本	下载地址
+
 Java	8u471	https://www.oracle.com/java/technologies/downloads/archive/#JavaSE
 CodeQL	2.23.8	https://github.com/github/codeql-cli-binaries
 
